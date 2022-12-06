@@ -1,5 +1,5 @@
 - 😎 Hi, I’m @Thierry25
-- 🥳 I’m interested in Mobile Development, Machine Learning and Web Development.
+- 🥳 I’m interested in Mobile Development, Machine Learning, Backend Development and Web Development.
 - 🧐 Java, Kotlin, Spring, Spring Boot, Ruby, Javascript
 - 🤘🏼 I’m looking to collaborate on Android applications as well as Java projects.
 - 📫 How to reach me -> marcelinthierry@gmail.com
