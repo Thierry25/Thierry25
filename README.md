@@ -1,6 +1,6 @@
 - 😎 Hi, I’m @Thierry25
 - 🥳 I’m interested in Mobile Development, Machine Learning and Web Development.
-- 🧐 I’m currently learning Kotlin, Spring, Spring Boot
+- 🧐 Java, Kotlin, Spring, Spring Boot, Ruby, Javascript
 - 🤘🏼 I’m looking to collaborate on Android applications as well as Java projects.
 - 📫 How to reach me -> marcelinthierry@gmail.com
 
