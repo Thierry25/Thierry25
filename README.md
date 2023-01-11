@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 😎 Hi, I’m @Thierry25<br>- 🥳 I’m interested in Mobile Development and Web Development.<br>- 🧐 Java, Kotlin, Spring, Spring Boot, Ruby, Javascript<br>- 🤘🏼 I’m looking to collaborate on Android applications as well as Java projects.<br>- 📫 How to reach me -> marcelinthierry@gmail.com<br>
+ 😎 Hi, I’m @Thierry25<br><br>- 🥳 I’m interested in Mobile Development and Web Development.<br>- 🧐 Java, Kotlin, Spring, Spring Boot, Ruby, Javascript<br>- 🤘🏼 I’m looking to collaborate on Android applications as well as Java projects.<br>- 📫 How to reach me -> marcelinthierry@gmail.com<br>
 
 
 ## 🌐 Socials:
